@@ -15,3 +15,4 @@
 
 // Import commands.js using ES2015 syntax:
 import './ui_commands'
+import './api_commands'
