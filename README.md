@@ -45,21 +45,15 @@ comportamentos esperados.
 Separação UI/API: specs organizadas por tipo de teste.
 
 4. 📂 Estrutura de Pastas
-cypress/
-├─ e2e/ # Specs de testes (UI e API)
-│ ├─ ui/ # Testes de interface
-│ └─ api/ # Testes de API
-├─ support/ # Commands
-│ ├─ ui_commands.js # Comandos customizados
-│ ├─ api_commands.js # Comandos customizados
-│ └─ e2e.js # Hooks globais
+
+<img width="364" height="174" alt="Screenshot 2025-09-17 at 08 48 02" src="https://github.com/user-attachments/assets/3493707f-237f-4ded-aee1-9ee83360da30" />
 
 5. 📊 Relatórios
 
 6. ⚠ Limitações e Próximos Passos
 
-Estruturação melhor dos testes
-Possível utilizando de PageObjects
+Estruturação melhor dos testes  
+Possível utilizando de PageObjects  
 Expandir suítes com mais cenários de erro e
 autenticação.
 
