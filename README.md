@@ -29,7 +29,6 @@ armazenar os dados sensíveis de login:
 
 ## ▶️ Como executar os testes
 
-UI (interface gráfica)
 Modo interativo (com Cypress Test Runner):
 ```
 npx cypress open
@@ -52,7 +51,9 @@ Separação UI/API: specs organizadas por tipo de teste.
 
 6. ⚠ Limitações e Próximos Passos
 
-Estruturação melhor dos testes  
+Criação de arquivo de CI/CD no Github Actions  
+Relatórios integrados no GitHub Pages  
+Melhoria de estruturação dos testes  
 Possível utilizando de PageObjects  
 Expandir suítes com mais cenários de erro e
 autenticação.
